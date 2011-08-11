@@ -6,6 +6,7 @@ require 'enumerator'
 require 'songkicky'
 require 'redis'
 require 'pp'
+require 'yaml'
 
 lib_folder = File.dirname(__FILE__) + '/combinar'
 

@@ -1,0 +1,5 @@
+source 'http://rubygems.org'
+gem 'sinatra'
+gem 'songkicky'
+gem 'redis'
+# gem 'thin'
